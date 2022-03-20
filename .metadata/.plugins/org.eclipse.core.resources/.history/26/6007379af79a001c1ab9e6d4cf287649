@@ -1,0 +1,7 @@
+package com.example.Kafka_example;
+
+public class RequestMessage {
+
+	private String message;
+	
+}
